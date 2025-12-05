@@ -15,28 +15,28 @@
 <h3 align="center">【 SHY's Teck Stack 】</h3>
 
 <p align="center">
-  <strong>C-language — LV. 6</strong><br>
-  🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-</p>
-
-<p align="center">
-  <strong>Unreal Engine — LV. 1</strong><br>
+  <strong>C-language — LV. 3</strong><br>
   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜
 </p>
 
 <p align="center">
-  <strong>Unity — LV. 5</strong><br>
-  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜
+  <strong>Unreal Engine — LV. 1</strong><br>
+  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
+</p>
+
+<p align="center">
+  <strong>Unity — LV. 3</strong><br>
+  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜
 </p>
 
 <p align="center">
   <strong>React Native — LV. 3</strong><br>
-  🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
 </p>
 
 <p align="center">
-  <strong>Python — LV. 3</strong><br>
-  🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+  <strong>Python — LV. 2</strong><br>
+  🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 </p>
 
 <p align="right"> 🟩 == 5 times </p>
