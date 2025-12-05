@@ -17,7 +17,7 @@
 
 <p align="center">
   <strong>【C-language】 — LV. 3</strong><br>
-  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜
+  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
 </p>
 
 <p align="center">
